@@ -1,5 +1,5 @@
 [package]
-name = "openapi"
+name = "galaxy_api"
 version = "22.05.1"
 authors = ["OpenAPI Generator team and contributors"]
 edition = "2018"
